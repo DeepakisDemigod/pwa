@@ -1,0 +1,35 @@
+body {
+  background-color: #141c2c;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+input {
+  color: white;
+  background-color: #111828;
+  border-radius: 9px;
+  height: 20px;
+  margin-bottom: 10px;
+  border: none;
+  outline: none;
+  padding: 8px 20px;
+}
+
+.submit {
+  width: 200px;
+  background-color: #6364f0;
+  border-radius: 9px;
+  height: 20px;
+  margin-bottom: 10px;
+  border: none;
+  outline: none;
+  padding: 20px;
+  place-items: center;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}

@@ -1,0 +1,47 @@
+body {
+  background-color: #141c2c;
+  color: white;
+  font-family: arial;
+  margin: 30px;
+}
+
+* {
+  font-family: sans-serif;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.upcoming-subscriptions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.main-sub {
+  border-radius: 5px;
+  padding: 7px;
+  width: 100px;
+  background-color: rgb(4, 35, 66);
+}
+
+.SUB {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.expense {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
